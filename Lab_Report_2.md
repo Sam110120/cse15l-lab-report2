@@ -11,6 +11,13 @@
 
 ## Part2:
 
+* <img width="343" alt="image" src="https://github.com/Sam110120/cse15l-lab-report2/assets/71369089/b6bd4ffc-1c0c-45d7-a40a-000f5aad4c80">
+
+* <img width="466" alt="image" src="https://github.com/Sam110120/cse15l-lab-report2/assets/71369089/f294003d-caf3-48b4-ac51-2ae80ce3a2dd">
+
+
+* <img width="782" alt="image" src="https://github.com/Sam110120/cse15l-lab-report2/assets/71369089/a3ff9bfd-74f4-4ef9-99f0-87454ff709a5">
+
 ## Part3: 
 
 * In weeks 2 and 3 I learned different things such as how to ssh into the remote server and start my own local host server using different ports. It was also quite interesting that I could generate my own password token so that I could log in to the remote server directly without entering my password because I always forget what my password is.
