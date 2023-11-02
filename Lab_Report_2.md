@@ -11,14 +11,14 @@
 
 ### /add-message for "How are you":
 ![image](https://github.com/Sam110120/cse15l-lab-report2/assets/71369089/94ecc603-29d6-4f80-8970-e9889c4edc82)
-* Everything is pretty much the same as the part above except I added another message by putting "/add-message?s=How are you" at the end, which replaced the "/add-message?s=Hi". ArrayList will also store the information and show it on the website as the second message.
+* Everything is pretty much the same as the part above except I added another message by putting "/add-message?s=How are you" at the end, which replaced the "/add-message?s=Hi". So the message "How are you" will be stored in the ArraryList as the second element with corresponding sequence value 2, and all the messages stored in ArraryList will be displayed on the website with the corresponding sequence (The order when the message is added to the ArrayList).
 
 # Part2:
 ### Private key in my computer:
-![image](https://github.com/Sam110120/cse15l-lab-report2/assets/71369089/77275f81-597b-40f7-9827-39fffc3138e0)
+![image](https://github.com/Sam110120/cse15l-lab-report2/assets/71369089/cf76295b-5736-4108-9547-04c15677793f)
 
 ### Public key within my account on ieng6:
-![image](https://github.com/Sam110120/cse15l-lab-report2/assets/71369089/e655c8f0-d5f9-4fa7-8f98-df88a6865fda)
+![image](https://github.com/Sam110120/cse15l-lab-report2/assets/71369089/c246a00b-2c2d-4097-afd0-d72c6f6a9a22)
 
 ### log into ieng6 without password:
 ![image](https://github.com/Sam110120/cse15l-lab-report2/assets/71369089/8b6ecb69-b826-4190-97bd-3ddd90cc03b3)
